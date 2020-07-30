@@ -16,4 +16,3 @@ of wine.
 Features Extracted :-
 Review_description
 
-Assignment for Knight FinTech Research Private Limited  for internship process
